@@ -1,3 +1,17 @@
+# Endocrine Booster
+endocrinebooster
+
+# Ethanol
+# Alien Blood
+# Adrenaline
+# Sulphuric Acid
+# Hallucinogenic Bufotoxin
+ethanol
+alienblood
+adrenaline
+sulphuricacid
+hallucinogenicbufotoxin
+
 # Saline
 # Blood Pack
 antibloodloss1
@@ -21,16 +35,10 @@ antidama1
 antidama2
 deusizine
 
-# Broad-spectrum Antibiotics
-# Cyanide Antidote
-# Antirad
-# Naloxone
-# Haloperidol
-antibiotics
-calyxanide
-antirad
-antinarc
-antipsychosis
+# Liquid Oxygenite
+# Pressure Stabilizer
+liquidoxygenite
+pressurestabilizer
 
 # Tonic Liquid
 # Methamphetamine
@@ -43,27 +51,16 @@ steroids
 hyperzine
 combatstimulantsyringe
 
-# Liquid Oxygenite
-# Pressure Stabilizer
-liquidoxygenite
-pressurestabilizer
-
-# Endocrine Booster
-endocrinebooster
-
-# Chloral Hydrate
-# Paralyzant
-# Raptor Bane Extract
-chloralhydrate
-paralyzant
-raptorbaneextract
-
-# Ethanol
-# Alien Blood
-# Adrenaline
-ethanol
-alienblood
-adrenaline
+# Broad-spectrum Antibiotics
+# Cyanide Antidote
+# Antirad
+# Naloxone
+# Haloperidol
+antibiotics
+calyxanide
+antirad
+antinarc
+antipsychosis
 
 # Stabilozine
 # Anaparalyzant
@@ -77,3 +74,23 @@ deliriumineantidote
 morbusineantidote
 sufforinantidote
 cyanideantidote
+
+# Chloral Hydrate
+# Paralyzant
+# Raptor Bane Extract
+chloralhydrate
+paralyzant
+raptorbaneextract
+
+# Velonaceps Calyx Eggs
+# Deliriumine
+# Morbusine
+# Cyanide
+# Sufforin
+# Radiotoxin
+huskeggs
+deliriumine
+morbusine
+cyanide
+sufforin
+radiotoxin
