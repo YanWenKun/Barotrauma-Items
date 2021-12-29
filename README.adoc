@@ -1,0 +1,3 @@
+# Data notes in Barotrauma
+
+Some notes maybe useful for modders / submarine creators.

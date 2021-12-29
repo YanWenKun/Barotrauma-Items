@@ -1,0 +1,77 @@
+# Barotrauma Game: All <Item> that has Quality Level.
+# Check from https://barotraumagame.com/wiki/Quality
+
+# XML edit tip:
+# qualitylevel="0" => Normal
+# qualitylevel="1" => Good
+# qualitylevel="2" => Excellent
+# qualitylevel="3" => Masterwork
+
+# Group 1
+# Attack Power (Affects ammunition stats in the case of ranged weapons)
+autoshotgun
+assaultrifle
+boardingaxe
+nucleargun
+handcannon
+crowbar
+crowbarhardened
+crowbardementonite
+harpoongun
+revolver
+smg
+divingknife
+divingknifehardened
+divingknifedementonite
+grenadelauncher
+shotgun
+stungun
+shotgununique
+divingknifeunique
+smgunique
+
+# Group 2
+# Max Condition (durability)
+fuelrod
+thoriumfuelrod
+fulguriumfuelrod
+fulguriumfuelrodvolatile
+weldingfueltank
+incendiumfueltank
+oxygentank
+oxygenitetank
+battery
+fulguriumbatterycell
+
+# Group 3
+# Repair Speed
+screwdriver
+screwdriverhardened
+screwdriverdementonite
+wrench
+wrenchhardened
+wrenchdementonite
+
+# Group 4
+# Explosion Range, Explosion Damage
+uex
+c4block
+ic4block
+compoundn
+volatilecompoundn
+stungrenade
+empgrenade
+fraggrenade
+incendiumgrenade
+
+# Group 5
+# Hull Repair Speed
+weldingtool
+
+# Group 6
+# Hull Damage Deattach Time Reduction (Minerals extraction speed)
+plasmacutter
+
+# Group 7
+# Attack Speed
+stunbaton

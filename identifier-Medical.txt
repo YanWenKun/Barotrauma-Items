@@ -1,0 +1,79 @@
+# Saline
+# Blood Pack
+antibloodloss1
+antibloodloss2
+
+# Bandage
+# Plastiseal
+# Antibiotic Glue
+antibleeding1
+antibleeding2
+antibleeding3
+
+# Pomegrenade Extract
+# Opium
+# Morphine
+# Fentanyl
+# Deusizine
+pomegrenadeextract
+opium
+antidama1
+antidama2
+deusizine
+
+# Broad-spectrum Antibiotics
+# Cyanide Antidote
+# Antirad
+# Naloxone
+# Haloperidol
+antibiotics
+calyxanide
+antirad
+antinarc
+antipsychosis
+
+# Tonic Liquid
+# Methamphetamine
+# Anabolic Steroids
+# Hyperzine
+# Combat Stimulant
+tonicliquid
+meth
+steroids
+hyperzine
+combatstimulantsyringe
+
+# Liquid Oxygenite
+# Pressure Stabilizer
+liquidoxygenite
+pressurestabilizer
+
+# Endocrine Booster
+endocrinebooster
+
+# Chloral Hydrate
+# Paralyzant
+# Raptor Bane Extract
+chloralhydrate
+paralyzant
+raptorbaneextract
+
+# Ethanol
+# Alien Blood
+# Adrenaline
+ethanol
+alienblood
+adrenaline
+
+# Stabilozine
+# Anaparalyzant
+# Deliriumine Antidote
+# Morbusine Antidote
+# Sufforin Antidote
+# Cyanide Antidote
+stabilozine
+antiparalysis
+deliriumineantidote
+morbusineantidote
+sufforinantidote
+cyanideantidote
