@@ -34,7 +34,7 @@ for $x in //Item[@identifier=(
 "incendiumfueltank",
 "oxygentank",
 "oxygenitetank",
-"battery",
+"batterycell",
 "fulguriumbatterycell",
 "screwdriver",
 "screwdriverhardened",
