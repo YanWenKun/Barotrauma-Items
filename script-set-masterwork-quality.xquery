@@ -1,4 +1,4 @@
-(: Barotrauma game: set all items to materwork quality level :)
+(: Barotrauma game: set all items to Masterwork quality level :)
 
 (: Use this in BaseX, with your Submarine XML :)
 
@@ -66,7 +66,7 @@ for $x in //Item[@identifier=(
 "incendiumfueltank",
 "oxygentank",
 "oxygenitetank",
-"battery",
+"batterycell",
 "fulguriumbatterycell",
 "fuelrod"
 )]/@condition

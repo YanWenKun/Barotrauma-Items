@@ -40,7 +40,7 @@ weldingfueltank
 incendiumfueltank
 oxygentank
 oxygenitetank
-battery
+batterycell
 fulguriumbatterycell
 
 # Group 3
